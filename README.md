@@ -28,15 +28,9 @@ disease classification, disponível no Kaggle na referência [3].
 
 <div align="justify">
 
-`Dados_validação_nlp.xlsx`: Dataset de validação gerado para a análise dos modelos.
+`CNN_semprocessamento`: Notebook com as informações do modelo com dados sem processamento.
 
-`nanotox_extracao_final.xlsx`: Dataset gerado pelo modelo.
- 
-`analises_NLP 4.ipynb`: Neste notebook, analisamos os dados obtidos na extração.
-
-`NLP_Nanotox 3.ipynb`: Aplicamos o preprocessamento, vetorização e REGEX
- 
-`LLM-Extraction-completo (2).ipynb`: Extraçaõ dos dados
+`CNN_comprocessamento`: Notebook com as informações do modelo com dados com processamento sem otimização de hiperparâmetros por optuna.
 
 </div>
 
@@ -53,6 +47,7 @@ entrada e a Camada Totalmente Conectada, no qual acontece a
 classificação das entradas a partir de valores de probabilidades
 entre 0 e 1
 
+ `Optuna`: Método usado para otimização de hiperparâmetros da CNN
  
 </div>
 
