@@ -21,7 +21,9 @@ O objetivo deste trabalho é empregar imagens de folhas com ferrugem,
 oídio e sem doenças como entrada para modelos de CNN, acelerando o diagnóstico e contribuindo para
 intervenções rápidas e eficazes no manejo agrícola, comparando com imagens pré-processadas a partir de
 filtros de imagens com o objetivo de deixar mais evidente possíves marcadores da CNN.
-
+Os resultados foram obtidos a partir do uso do Dataset: plant
+disease classification, disponível no Kaggle na referência [3].
+ 
 <h2 align="left"> 📔 Notebooks e arquivos do projeto </h2>
 
 <div align="justify">
