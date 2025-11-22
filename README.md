@@ -28,9 +28,13 @@ disease classification, disponível no Kaggle na referência [3].
 
 <div align="justify">
 
-`CNN_semprocessamento`: Notebook com as informações do modelo com dados sem processamento.
+`CNN_semprocessamento`: Notebook com as informações do modelo com dados sem processamento sem otimização de hiperparâmetros por optuna.
 
-`CNN_comprocessamento`: Notebook com as informações do modelo com dados com processamento sem otimização de hiperparâmetros por optuna.
+`CNN_comprocessamento_semoptuna`: Notebook com as informações do modelo com dados com processamento sem otimização de hiperparâmetros por optuna.
+
+`CNN_semprocessamento_comoptuna`: Notebook com as informações do modelo com dados sem processamento com otimização de hiperparâmetros por optuna.
+
+`CNN_comprocessamento_comoptuna`: Notebook com as informações do modelo com dados com processamento com otimização de hiperparâmetros por optuna.
 
 </div>
 
